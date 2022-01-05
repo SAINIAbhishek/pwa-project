@@ -3,7 +3,6 @@
 It is a learning project. It's a simple progressive web app that will show all its features like service-worker, 
 manifest, push notification and many more.
 <br>
-<br>
 >A progressive web app takes advantage of the latest technologies to combine the best of web and mobile apps.
 
 ## Running locally
