@@ -1,0 +1,36 @@
+{
+    "name": "pwa-project",
+    "version": "1.0.0",
+    "description": "A simple project with Progressive Web App(PWA) features ",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "http-server -c-1 -p=3080"
+    },
+    "dependencies": {
+        "bulma": "^0.9.3"
+    },
+    "devDependencies": {
+        "http-server": "^0.12.3"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/SAINIAbhishek/pwa-project.git"
+    },
+    "keywords": [
+        "PWA",
+        "progressive",
+        "web",
+        "app",
+        "service-worker",
+        "notification",
+        "manifest",
+        "background-sync"
+    ],
+    "author": "Abhishek SAINI",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/SAINIAbhishek/pwa-project/issues"
+    },
+    "homepage": "https://github.com/SAINIAbhishek/pwa-project#readme"
+}
