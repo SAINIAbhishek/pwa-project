@@ -11,3 +11,4 @@ manifest, push notification and many more.
 - Browse `http://127.0.0.1:3080`
 
 ## Implemented functionalities
+- App Manifest (Make web app installable)
