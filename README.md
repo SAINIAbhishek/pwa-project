@@ -13,3 +13,4 @@ manifest, push notification and many more.
 ## Implemented functionalities
 - App Manifest (Make web app installable)
 - Service Workers (Work behind the scenes)
+- Static Caching at Installation
