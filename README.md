@@ -14,3 +14,4 @@ manifest, push notification and many more.
 - App Manifest (Make web app installable)
 - Service Workers (Work behind the scenes)
 - Static Caching at Installation
+- Dynamic Caching upon Fetching
