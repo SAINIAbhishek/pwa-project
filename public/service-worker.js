@@ -1,4 +1,4 @@
-const CACHE_STATIC_NAME = 'pwa-static-v4';
+const CACHE_STATIC_NAME = 'pwa-static-v7';
 const CACHE_DYNAMIC_NAME = 'pwa-dynamic-v4';
 
 const urlsToCache = [
@@ -9,7 +9,7 @@ const urlsToCache = [
     'https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700;800&display=swap',
     'https://pro.fontawesome.com/releases/v5.10.0/css/all.css',
     'https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css',
-    '/assets/images/photo-1530789253388-582c481c54b0.jpeg',
+    '/assets/images/photo-1530789253388-582c481c54b0.jpeg'
 ];
 
 const cacheResources = async() => {
